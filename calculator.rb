@@ -1,1 +1,1 @@
-first_number = "27"
+first_number = 27
